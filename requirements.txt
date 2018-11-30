@@ -1,1 +1,4 @@
 ask-sdk-core
+six
+boto3
+botocore
